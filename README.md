@@ -1,11 +1,10 @@
+profile github
 
 <h1 align="center">Hi 👋, I'm  Mujib Sukri L</h1>
 
 <h3 align="center">A young-dumb 🤓 a practical of data science from Indonesia 🇮🇩 </h3>
- </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src=“https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmujib_sukri” alt=“Mujib_sukri” /></a> </p>
-
+<p align="left"> <a href="https://twitter.com/mujib_sukri” target="blank"><img src="https://img.shields.io/twitter/follow/mujib_sukri?logo=twitter&style=for-the-badge" alt=“Mujib_sukri” /></a> </p>
 
 - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
@@ -21,11 +20,10 @@ I have a bug to document technical stuffs that I do, which can be found at my [b
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://twitter.com/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_dk_jain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+<a href="https://nurastars.figcube.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/write-dot-as.svg" alt="nurastars" height="40" width="40" /></a>
+<a href="https://twitter.com/mujib_sukri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mujib-sukri-2133942a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mujib sukri" height="30" width="40" /></a>
+<a href="https://instagram.com/mujib_sukri_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mujib_sukri_" height="30" width="40" /></a>
 </p>
 
 **📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
