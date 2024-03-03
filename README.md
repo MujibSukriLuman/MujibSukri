@@ -1,10 +1,11 @@
-profile github
 
 <h1 align="center">Hi 👋, I'm  Mujib Sukri L</h1>
 
 <h3 align="center">A young-dumb 🤓 a practical of data science from Indonesia 🇮🇩 </h3>
 
 <p align="left"> <a href="https://twitter.com/mujib_sukri” target="blank"><img src="https://img.shields.io/twitter/follow/mujib_sukri?logo=twitter&style=for-the-badge" alt=“Mujib_sukri” /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://github.com/nurastars/MujibSukri/assets/149975589/2160ac65-19e0-4612-9ee9-ecb13967be28">
 
 - 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
